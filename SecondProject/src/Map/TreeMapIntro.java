@@ -7,7 +7,7 @@ public class TreeMapIntro {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Map<String,Integer> map= new TreeMap<>();
+		Map<String,Integer> map= new TreeMap<>();	
 		map.put("Vijay", 1);
 		map.put("Ajay", 1);
 		map.put("Vikram", 1);

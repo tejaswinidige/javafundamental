@@ -10,7 +10,7 @@ public class Test2 {
 		Set<Integer> lhs = new LinkedHashSet<>();
 		lhs.add(3);
 		lhs.add(2);
-		lhs.add(5);
+		lhs.add(null);
 		System.out.println(lhs);
 
 		Set<String>lhs2 = new LinkedHashSet<>();
